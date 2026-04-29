@@ -1,0 +1,6 @@
+framework module Pods_Google_Ads_Implementation_Google_Ads_ImplementationUITests {
+  umbrella header "Pods-Google Ads Implementation-Google Ads ImplementationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
